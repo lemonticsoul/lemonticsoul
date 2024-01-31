@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center"style="font-size: 20px;">>
   <strong># 한번 해보자라고 생각하는 도전하는 백엔드 개발자 서제호입니다.</strong>
 </p>
 
@@ -13,9 +13,6 @@
   백엔드 기술에 관심이 많은 개발자이고 AI 모델에 관심있습니다!
 </p>
 
-<p align="center">
-  <img src="https://github.com/lemonticsoul.png" width="100" height="100" />
-</p>
 
 <p align="center">
   <strong># STACK <img src="https://github.com/fluidicon.png" width="20" height="20"></strong>
