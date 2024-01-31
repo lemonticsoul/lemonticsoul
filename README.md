@@ -11,9 +11,7 @@
   백엔드 기술에 관심이 많은 개발자이고 AI 모델에 관심있습니다!
 </p>
 
-<p align="center">
-  <img src="https://github.com/lemonticsoul.png" width="100" height="100" />
-</p>
+
 
 <p align="center">
   <strong># STACK <img src="https://github.com/fluidicon.png" width="20" height="20"></strong>
