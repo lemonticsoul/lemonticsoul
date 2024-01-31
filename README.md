@@ -1,5 +1,5 @@
 
-<p align="center"style="font-size: 100px;">>
+<p align="center "style="font-size: 100px;">>
   <strong># 한번 해보자라고 생각하는 도전하는 백엔드 개발자 서제호입니다.</strong>
 </p>
 
@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 100px;">자기소개 </strong>
+  <strong style="font-size: 500px;">자기소개 </strong>
+  
   백엔드 기술에 관심이 많은 개발자이고 AI 모델에 관심있습니다!
 </p>
 
