@@ -23,5 +23,6 @@
 
 
  <a href="mailto:sjho714@naver.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Navermail&logoColor=white&link=sjho714@naver.com"/>
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>    
 </a>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={hellgallbal})](https://github.com/loosie/github-readme-tistory-card)
