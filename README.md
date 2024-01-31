@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 500px;">자기소개 </strong>
-  
-  백엔드 기술에 관심이 많은 개발자이고 AI 모델에 관심있습니다!
+  <strong style="font-size: 24px;">자기소개</strong><br>
+  <span style="font-size: 16px;">
+    백엔드 기술에 관심이 많은 개발자이고 AI 모델에도 관심이 있습니다!
+  </span>
 </p>
 
 
