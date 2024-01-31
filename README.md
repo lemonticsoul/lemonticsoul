@@ -1,5 +1,5 @@
 
-<p align="center "style="font-size: 500px;">
+<p align="center "style="font-size: 48px;">
   <strong># 한번 해보자라고 생각하는 도전하는 백엔드 개발자 서제호입니다.</strong>
 </p>
 
@@ -27,6 +27,9 @@
   <strong># STATS</strong>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula">
+</p>
 
 <p align="center" "style="font-size: 500px;">
   <strong># MOST TOP LANGUAGE <img src="https://github.com/fluidicon.png" width="20" height="20"></strong>
