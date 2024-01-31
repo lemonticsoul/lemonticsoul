@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <strong># STACK <img src="https://github.com/fluidicon.png" width="20" height="20"></strong>
+  <strong># STACK <img src="https://github.com/book.png" width="20" height="20"></strong>
 </p>
 
 <p align="center">
