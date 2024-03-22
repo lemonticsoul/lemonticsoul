@@ -60,8 +60,13 @@ https://mandomando.swygbro.com/
 
 
 # 🙏 Contact
+
  <a href="mailto:sjho714@naver.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>
 </a>
+
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=footer&text=lemonticsoul&fontSize=70" />
