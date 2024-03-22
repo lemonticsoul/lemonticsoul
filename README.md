@@ -23,9 +23,7 @@
 
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/python -3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
 
-#**Backjoon**
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
 
 #**Blog**
 
@@ -46,6 +44,11 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 
 # 실제 배포 프로그램
 -->체험 주소:https://mandomando.swygbro.com/
+
+
+#**Backjoon**
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
 
 
 # Contact
