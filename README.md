@@ -24,15 +24,14 @@
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/python -3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
 
 
-
-**Blog**
+# ✏Blog
 
 https://velog.io/@lemonticsoul/만다라트-프로젝트-11편-만다라트-메인-리펙토링
 
 https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더라도-한줄의-코딩을-마감하겠소.코드-리팩토링
 
 
-**STATS**
+# 💁STATS**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
 
