@@ -3,7 +3,14 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemonticsoul&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-백엔드 기술에 관심이 많은 개발자이고 ai모델관심있습니다!
+**목표및 마음가짐**
+
+남일도 내일같이! 책임감을 가지고 프로젝트를 진행하고있는 개발자입니다. 
+목표는 리눅스 토르발즈 처럼 어려운사람들을 위해 소프트웨어를 배포하고 이를 통해 세상을 따뜻하게 만드는 개발자가 되고싶습니다.
+
+
+**현재 하고있는 것**
+신한투자증권 프로디지털 아카데미 4기(2024.03~)
 
 #**STACK**
 
@@ -31,7 +38,7 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
 
 
-#실제 배포 프로그램
+# 실제 배포 프로그램
 
 -->체험 주소:https://mandomando.swygbro.com/
 
