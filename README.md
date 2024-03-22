@@ -36,27 +36,27 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 
 
 
-# 💁STATS**
+# 💁STATS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
 
 
-**MOST TOP LANGAGE**
+# 📍MOST TOP LANGAGE
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
 
 
-# 실제 배포 프로그램
-
+# ⚫ Project
+웹[만다라트프로젝트]:
 https://mandomando.swygbro.com/
 
 
-#**Backjoon**
+# 💪 Backjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
 
 
-# Contact
+# 🙏 Contact
  <a href="mailto:sjho714@naver.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>
 </a>
