@@ -9,24 +9,25 @@
 
 # Profile
 
-**목표및 마음가짐**
+
+**INTRO**
 
 남일도 내일같이! 책임감을 가지고 프로젝트를 진행하고있는 개발자입니다. 
 목표는 리눅스 토르발즈 처럼 어려운사람들을 위해 소프트웨어를 배포하고 이를 통해 세상을 따뜻하게 만드는 개발자가 되고싶습니다.
 
 
-**현재 하고있는 것**
+**STUDY**
 신한투자증권 프로디지털 아카데미 4기(2024.03~)
 
 #**STACK**
 
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/python -3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
 
-#**백준실력**
+#**Backjoon**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
 
-#**최근 블로그 쓴 목록!!**
+#**Blog**
 
 https://velog.io/@lemonticsoul/만다라트-프로젝트-11편-만다라트-메인-리펙토링
 
@@ -34,7 +35,6 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 
 
 #**STATS**
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
 
