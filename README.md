@@ -13,6 +13,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
 
+#**최근 블로그 쓴 목록!!**
+https://velog.io/@lemonticsoul/%EB%A7%8C%EB%8B%A4%EB%9D%BC%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-11%ED%8E%B8-%EB%A7%8C%EB%8B%A4%EB%9D%BC%ED%8A%B8-%EB%A9%94%EC%9D%B8-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81
 
 
 #**STATS**
