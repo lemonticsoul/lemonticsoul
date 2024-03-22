@@ -43,7 +43,8 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 
 
 # 실제 배포 프로그램
--->체험 주소:https://mandomando.swygbro.com/
+
+https://mandomando.swygbro.com/
 
 
 #**Backjoon**
