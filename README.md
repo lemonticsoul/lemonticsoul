@@ -31,6 +31,13 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
 
 
+#실제 배포 프로그램
+
+
+https://github.com/lemonticsoul/lemonticsoul/assets/127959482/5ab30278-ba3f-4bbc-90a8-cb71cb862f08
+
+
+
 
  <a href="mailto:sjho714@naver.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>
