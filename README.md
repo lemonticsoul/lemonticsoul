@@ -1,7 +1,11 @@
 
 # **한번 해보자! 도전하는 백엔드 개발자 서제호입니다.**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=header&text=lemonticsoul&fontSize=70" />
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemonticsoul&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+# Profile
 
 **목표및 마음가짐**
 
@@ -39,17 +43,12 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 
 
 # 실제 배포 프로그램
-
 -->체험 주소:https://mandomando.swygbro.com/
 
-**시연영상**
 
-https://github.com/lemonticsoul/lemonticsoul/assets/127959482/5ab30278-ba3f-4bbc-90a8-cb71cb862f08
-
-
-
-
+# Contact
  <a href="mailto:sjho714@naver.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>
 </a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=footer&text=lemonticsoul&fontSize=70" />
