@@ -1,4 +1,4 @@
-<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=header&text=lemonticsoul&fontSize=70" />
 
 # **한번 해보자! 도전하는 백엔드 개발자 서제호입니다.**
