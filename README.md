@@ -52,7 +52,7 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 
 # ⚫ Project
 
-### 웹[만다라트프로젝트]:
+### 웹[만다라트프로젝트] (백엔드총괄):
 https://mandomando.swygbro.com/
 
 ### 소스코드
