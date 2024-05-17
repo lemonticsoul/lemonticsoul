@@ -31,6 +31,7 @@
 ## backend
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/python -3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadb&logoColor=white"> 
 
+## Frontend
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/express.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 
 
@@ -60,6 +61,9 @@ https://mandomando.swygbro.com/
 
 ### 소스코드
 https://github.com/lemonticsoul/mandart
+
+### 웹(신한 코테 스터디 환경구축)(개인-프론트엔드):
+https://bit.ly/4apyH9F
 
 
 # 💪 Backjoon
