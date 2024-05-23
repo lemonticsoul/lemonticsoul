@@ -63,7 +63,11 @@ https://mandomando.swygbro.com/
 https://github.com/lemonticsoul/mandart
 
 ### 웹(프디아 코테 스터디 환경구축)(개인-프론트엔드):
-https://bit.ly/4apyH9F
+
+
+https://github.com/lemonticsoul/lemonticsoul/assets/127959482/1373c06a-241d-406b-9871-09261e393e24
+
+
 
 ### 소스코드
 https://github.com/lemonticsoul/codingukkka
