@@ -49,9 +49,6 @@ https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
 
 
-# 📍MOST TOP LANGAGE
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
 
 
 # ⚫ Project
@@ -66,7 +63,6 @@ https://github.com/lemonticsoul/mandart
 
 
 https://github.com/lemonticsoul/lemonticsoul/assets/127959482/1373c06a-241d-406b-9871-09261e393e24
-
 
 
 ### 소스코드
@@ -114,6 +110,10 @@ https://github.com/lemonticsoul/codingukkka
   </tr>
 </table>
 
+
+# 📍MOST TOP LANGAGE
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
 
 # 🙏 Contact
 <a href="mailto:sjho714@naver.com">
