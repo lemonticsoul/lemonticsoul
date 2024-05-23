@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=header&text=lemonticsoul&fontSize=70" />
 
-# **한번 해보자! 도전하는 풀스택 개발자 서제호입니다.**
+# **근원적사고,팔때까지 파보자. 풀스택 개발자 서제호입니다.**
 
 
 
@@ -13,7 +13,7 @@
 
 # 🙋INTRO
 
-**남일도 내일같이! 책임감을 가지고 포기하지않고 계속 도전하는 개발자입니다.**
+**이것이 맞나? 검증하며 문제가 해결할때까지 파보는 개발자입니다.**
 
 **목표는 리누스 토르발즈 처럼 어려운사람들을 위해 소프트웨어를 배포하고**
 
