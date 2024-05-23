@@ -89,6 +89,10 @@ https://github.com/lemonticsoul/codingukkka
     <td>-</td>
   </tr>
   <tr>
+    <td>증권투자권유대행인</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>SQLD</td>
     <td>-</td>
   </tr>
