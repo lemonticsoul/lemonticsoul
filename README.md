@@ -81,19 +81,24 @@ https://github.com/lemonticsoul/codingukkka
 
 <table>
   <tr>
-    <td>경험 및 자격증</td><td>기간</td>
-    <td>투자자산운용사</td></td>
-    <td>sqld</td>
-    <td>생활자산운용과 대학생을 위한 실용금융 조교(2022.03~2023.12)</td>
-   <td>sk 하이닉스 청주 M15 낸드플래시 교육생 근무(2023.01~2023.03)</td>
-   
+    <th>경험 및 자격증</th>
+    <th>기간</th>
   </tr>
-  
   <tr>
-    <td><a href="https://github.com/YangJinHyeok">@YangJinHyeok</a></td>
-    <td><a href="https://github.com/Leehyeonju0219">@Leehyeonju0219</a></td>
-    <td><a href="https://github.com/JaeIn1">@JaeIn1</a></td>
-    <td><a href="https://github.com/lemonticsoul">@lemonticsoul</a></td>
+    <td>투자자산운용사</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>SQLD</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>생활자산운용과 대학생을 위한 실용금융 조교</td>
+    <td>2022.03 ~ 2023.12</td>
+  </tr>
+  <tr>
+    <td>SK 하이닉스 청주 M15 낸드플래시 교육생 근무</td>
+    <td>2023.01 ~ 2023.03</td>
   </tr>
 </table>
 
