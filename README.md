@@ -9,18 +9,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemonticsoul&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
-
-
-# 🙋INTRO
-
-**이것이 맞나? 검증하며 문제가 해결할때까지 파보는 개발자입니다.**
-
-**목표는 리누스 토르발즈 처럼 어려운사람들을 위해 소프트웨어를 배포하고**
-
-**이를 통해 세상을 따뜻하게 만드는 개발자가 되고싶습니다.**
-
-
-
 # ✍STUDY
 
 신한투자증권 프로디지털 아카데미 4기(2024.03~)
@@ -35,21 +23,11 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 
 
-
 # ✏Blog
 
 https://velog.io/@lemonticsoul/만다라트-프로젝트-11편-만다라트-메인-리펙토링
 
 https://velog.io/@lemonticsoul/만다라트-프로젝트-9편.-난-오늘-죽더라도-한줄의-코딩을-마감하겠소.코드-리팩토링
-
-
-
-# 💁STATS
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
-
-
-
 
 # ⚫ Project
 
@@ -114,6 +92,12 @@ https://github.com/lemonticsoul/codingukkka
 # 📍MOST TOP LANGAGE
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
+
+
+# 💁STATS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
+
 
 # 🙏 Contact
 <a href="mailto:sjho714@naver.com">
