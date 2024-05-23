@@ -104,6 +104,14 @@ https://github.com/lemonticsoul/codingukkka
     <td>SK 하이닉스 청주 M15 낸드플래시 교육생 근무</td>
     <td>2023.01 ~ 2023.03</td>
   </tr>
+  <tr>
+    <td>2차전지 믹싱 기업 제일씨엠에스 근무</td>
+    <td>2022.07 ~ 2022.09</td>
+  </tr>
+  <tr>
+    <td>가평잣엿 영종,시흥 대리점 운영및 기획</td>
+    <td>2021.01~2021.06</td>
+  </tr>
 </table>
 
 
