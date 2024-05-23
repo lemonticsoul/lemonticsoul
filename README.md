@@ -93,7 +93,7 @@ https://github.com/lemonticsoul/codingukkka
     <td>-</td>
   </tr>
   <tr>
-    <td>생활자산운용과 대학생을 위한 실용금융 조교</td>
+    <td>강원대학교 교양교육원 금융분야(생활자산운용재테크,대학생을 위한 실용금융) 조교</td>
     <td>2022.03 ~ 2023.12</td>
   </tr>
   <tr>
