@@ -101,11 +101,11 @@ https://github.com/lemonticsoul/codingukkka
     <td>2022.03 ~ 2023.12</td>
   </tr>
   <tr>
-    <td>SK 하이닉스 청주 M15 낸드플래시 교육생 근무</td>
+    <td>SK 하이닉스 청주 M15 낸드플래시 교육생 </td>
     <td>2023.01 ~ 2023.03</td>
   </tr>
   <tr>
-    <td>2차전지 믹싱 기업 제일씨엠에스 근무</td>
+    <td>2차전지 믹싱 기업 제일씨엠에스 인턴</td>
     <td>2022.07 ~ 2022.09</td>
   </tr>
   <tr>
