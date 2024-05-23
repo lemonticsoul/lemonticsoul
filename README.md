@@ -77,6 +77,26 @@ https://github.com/lemonticsoul/codingukkka
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
 
+# 👌Certificate & Experience
+
+<table>
+  <tr>
+    <td>경험 및 자격증</td><td>기간</td>
+    <td>투자자산운용사</td></td>
+    <td>sqld</td>
+    <td>생활자산운용과 대학생을 위한 실용금융 조교(2022.03~2023.12)</td>
+   <td>sk 하이닉스 청주 M15 낸드플래시 교육생 근무(2023.01~2023.03)</td>
+   
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/YangJinHyeok">@YangJinHyeok</a></td>
+    <td><a href="https://github.com/Leehyeonju0219">@Leehyeonju0219</a></td>
+    <td><a href="https://github.com/JaeIn1">@JaeIn1</a></td>
+    <td><a href="https://github.com/lemonticsoul">@lemonticsoul</a></td>
+  </tr>
+</table>
+
 
 # 🙏 Contact
 <a href="mailto:sjho714@naver.com">
