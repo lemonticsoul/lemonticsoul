@@ -105,7 +105,7 @@ https://github.com/lemonticsoul/codingukkka
     <td>2023.01 ~ 2023.03</td>
   </tr>
   <tr>
-    <td>2차전지 믹싱 기업 제일씨엠에스 인턴</td>
+    <td>2차전지 믹싱 기업 제일엠앤에스 인턴</td>
     <td>2022.07 ~ 2022.09</td>
   </tr>
   <tr>
