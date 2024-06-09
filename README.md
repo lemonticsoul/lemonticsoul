@@ -83,7 +83,7 @@ https://github.com/lemonticsoul/codingukkka
     <td>2022.07 ~ 2022.09</td>
   </tr>
   <tr>
-    <td>가평잣엿(호품광명) 영종,시흥 대리점 운영및 기획</td>
+    <td>가평잣엿(호품광명) 영종,시흥 대리점 운영및 기획,재무회계 총책임자</td>
     <td>2021.01~2021.06</td>
   </tr>
 </table>
