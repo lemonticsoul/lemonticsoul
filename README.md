@@ -59,6 +59,10 @@ https://github.com/lemonticsoul/codingukkka
     <th>기간</th>
   </tr>
   <tr>
+    <td>정보처리기사</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>투자자산운용사</td>
     <td>-</td>
   </tr>
