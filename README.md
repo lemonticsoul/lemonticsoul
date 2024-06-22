@@ -81,6 +81,10 @@ https://github.com/lemonticsoul/codingukkka
     <td>-</td>
   </tr>
   <tr>
+    <td>코드잇 스프린트 백엔드 외주작업 (티블리스)</td>
+    <td>2024.05.22~06.28</td>
+  </tr>
+  <tr>
     <td>강원대학교 교양교육원 금융(생활자산운용재테크,대학생을 위한 실용금융) 조교</td>
     <td>2022.03 ~ 2023.12</td>
   </tr>
