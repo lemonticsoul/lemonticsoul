@@ -26,7 +26,7 @@
 # ✏Blog
 
 
-[[(https://velog.io/@lemonticsoul/%ED%8B%B0%EB%B8%94%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-java-spring-CICD-%EA%B5%AC%EC%B6%95%EB%B2%95%EA%B3%BC-%EC%99%84%EC%84%B1%EC%B0%A8-api-%EC%99%84%EC%84%B1-page-010102)](https://velog.io/@lemonticsoul/%ED%8B%B0%EB%B8%94%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-java-spring-CICD-%EA%B5%AC%EC%B6%95%EB%B2%95%EA%B3%BC-%EC%99%84%EC%84%B1%EC%B0%A8-api-%EC%99%84%EC%84%B1-page-010102)](https://velog.io/@lemonticsoul/티블리스-프로젝트-java-spring-CICD-구축법과-완성차-api-완성-page-010102)
+https://velog.io/@lemonticsoul/티블리스-프로젝트-java-spring-CICD-구축법과-완성차-api-완성-page-010102
 
 # ⚫ Project
 
