@@ -36,7 +36,7 @@ https://mandomando.swygbro.com/
 ### 소스코드
 https://github.com/lemonticsoul/mandart
 
-### 코드잇 스프린트 1팀 티블레스 프로젝트 (백엔드 참여)
+### 코드잇 스프린트 1팀 티블레스 프로젝트 (외주) (백엔드 참여)
 
 
 ### 웹(프디아 코테 스터디 환경구축)(개인-프론트엔드):
