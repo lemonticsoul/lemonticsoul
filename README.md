@@ -51,10 +51,6 @@ https://github.com/lemonticsoul/lemonticsoul/assets/127959482/1373c06a-241d-406b
 https://github.com/lemonticsoul/codingukkka
 
 
-# 💪 Backjoon
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjho714)](https://solved.ac/sjho714)
-
 # 👌Certificate & Experience
 
 <table>
