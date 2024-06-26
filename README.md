@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=header&text=lemonticsoul&fontSize=70" />
-
 # **근원적사고,팔때까지 파보자. 풀스택 개발자 서제호입니다.**
 
 
@@ -123,8 +120,3 @@ https://github.com/lemonticsoul/codingukkka
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>
 </a>
 
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#7FDBFF&height=200&section=footer&text=lemonticsoul&fontSize=70" />
