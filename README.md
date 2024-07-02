@@ -76,11 +76,15 @@ https://github.com/lemonticsoul/codingukkka
     <td>-</td>
   </tr>
   <tr>
+    <td>코드잇 심화 프론트 프로젝트 백엔드 외주작업</td>
+    <td>2024.07 ~ </td>
+  </tr>
+  <tr>
     <td>코드잇 스프린트 백엔드 외주작업 (티블리스)</td>
     <td>2024.05 ~ 2024.06</td>
   </tr>
   <tr>
-    <td>신한투자증권 프로 디지털 아카데미 3기</td>
+    <td>신한투자증권 프로 디지털 아카데미 4기</td>
     <td>2024.03 ~ </td>
   </tr>
    <tr>
