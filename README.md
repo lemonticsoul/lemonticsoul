@@ -6,9 +6,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemonticsoul&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
-# ✍STUDY
-
-신한투자증권 프로디지털 아카데미 4기(2024.03~)
 
 
 # 📚STACK
@@ -81,6 +78,10 @@ https://github.com/lemonticsoul/codingukkka
   <tr>
     <td>코드잇 스프린트 백엔드 외주작업 (티블리스)</td>
     <td>2024.05 ~ 2024.06</td>
+  </tr>
+  <tr>
+    <td>신한투자증권 프로 디지털 아카데미 3기</td>
+    <td>2024.03 ~ </td>
   </tr>
    <tr>
     <td>스위기 3기 만두팀 백엔드 총괄</td>
