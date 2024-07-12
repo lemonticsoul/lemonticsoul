@@ -77,7 +77,7 @@ https://github.com/lemonticsoul/codingukkka
   </tr>
   <tr>
     <td>코드잇 심화 프론트 7팀 백엔드 외주</td>
-    <td>2024.07  </td>
+    <td>2024.07 ~(현재) </td>
   </tr>
   <tr>
     <td>코드잇 스프린트 백엔드 외주작업 (티블리스)</td>
