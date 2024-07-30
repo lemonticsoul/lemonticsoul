@@ -30,7 +30,8 @@ https://mandomando.swygbro.com/
 ### 소스코드
 https://github.com/lemonticsoul/mandart
 
-### 코드잇 스프린트 1팀 티블레스 프로젝트 (외주) (백엔드 참여) ( stack-Java Spring boot,aws,docker,git-actions,portone payment):
+### 코드잇 스프린트 1팀 티블레스 프로젝트 (외주) (백엔드 참여)
+### ( stack-Java Spring boot,aws,docker,git-actions,portone payment):
 
 https://tea-bliss.vercel.app/
 
