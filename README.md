@@ -24,13 +24,13 @@ https://velog.io/@lemonticsoul/티블리스-프로젝트-java-spring-CICD-구축
 
 # ⚫ Project
 
-### 웹[만다라트프로젝트] (백엔드총괄):
+### 웹[만다라트프로젝트] (백엔드총괄 stack-Java Spring boot,orcle cloud):
 https://mandomando.swygbro.com/
 
 ### 소스코드
 https://github.com/lemonticsoul/mandart
 
-### 코드잇 스프린트 1팀 티블레스 프로젝트 (외주) (백엔드 참여)
+### 코드잇 스프린트 1팀 티블레스 프로젝트 (외주) (백엔드 참여) ( stack-Java Spring boot,aws,docker,git-actions,portone payment):
 
 https://tea-bliss.vercel.app/
 
