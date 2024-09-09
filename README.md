@@ -82,7 +82,7 @@ https://github.com/lemonticsoul/codingukkka
   </tr>
   <tr>
     <td>신한투자증권 프로 디지털 아카데미 4기</td>
-    <td>2024.03 ~ </td>
+    <td>2024.03 ~ 2024.09 </td>
   </tr>
    <tr>
     <td>스위기 3기 만두팀 백엔드 총괄</td>
