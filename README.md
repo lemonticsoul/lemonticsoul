@@ -77,6 +77,10 @@ https://github.com/lemonticsoul/codingukkka
     <td>-</td>
   </tr>
   <tr>
+    <td>한국전력공사 강원본부</td>
+    <td>2024.12~</td>
+  </tr>
+  <tr>
     <td>코드잇 스프린트 백엔드 외주작업 (티블리스)</td>
     <td>2024.05 ~ 2024.06</td>
   </tr>
