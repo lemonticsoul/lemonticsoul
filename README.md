@@ -77,7 +77,7 @@ https://github.com/lemonticsoul/codingukkka
     <td>-</td>
   </tr>
   <tr>
-    <td>한국전력공사 강원본부</td>
+    <td>한국전력공사 동해전력지사 전자제어팀(정보보안)</td>
     <td>2024.12~</td>
   </tr>
   <tr>
