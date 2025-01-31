@@ -2,12 +2,6 @@
 
 
 
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemonticsoul&count_bg=%233DBCC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
-
-
 # 📚STACK
 
 ## Backend
@@ -19,8 +13,7 @@
 
 # ✏Blog
 
-
-https://velog.io/@lemonticsoul/티블리스-프로젝트-java-spring-CICD-구축법과-완성차-api-완성-page-010102
+https://velog.io/@lemonticsoul
 
 # ⚫ Project
 
