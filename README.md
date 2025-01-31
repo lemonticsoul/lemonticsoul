@@ -55,7 +55,7 @@ https://github.com/Tea-Bliss/BE_Tea_Bliss
     <td>-</td>
   </tr>
   <tr>
-    <td>한국전력공사 동해전력지사 전자제어팀(정보보안)</td>
+    <td>한국전력공사 </td>
     <td>2024.12~</td>
   </tr>
   <tr>
