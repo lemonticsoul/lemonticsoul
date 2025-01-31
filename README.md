@@ -17,12 +17,6 @@ https://velog.io/@lemonticsoul
 
 # ⚫ Project
 
-### 웹[만다라트프로젝트] (백엔드총괄 stack-Java Spring boot,orcle cloud):
-https://mandomando.swygbro.com/
-
-### 소스코드
-https://github.com/lemonticsoul/mandart
-
 ### 코드잇 스프린트 1팀 티블레스 프로젝트 (외주) (백엔드 참여)
 ### ( stack-Java Spring boot,aws,docker,git-actions,portone payment):
 
@@ -31,15 +25,6 @@ https://tea-bliss.vercel.app/
 ### 소스코드
 
 https://github.com/Tea-Bliss/BE_Tea_Bliss
-
-### 웹(프디아 코테 스터디 환경구축)(개인-프론트엔드):
-
-
-https://github.com/lemonticsoul/lemonticsoul/assets/127959482/1373c06a-241d-406b-9871-09261e393e24
-
-
-### 소스코드
-https://github.com/lemonticsoul/codingukkka
 
 
 # 👌Certificate & Experience
@@ -103,19 +88,9 @@ https://github.com/lemonticsoul/codingukkka
   </tr>
 </table>
 
-
-# 📍MOST TOP LANGAGE
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonticsoul&layout=compact&theme=dracula)
-
-
 # 💁STATS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonticsoul&show_icons=true&theme=dracula)
 
 
-# 🙏 Contact
-<a href="mailto:sjho714@naver.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjho714@naver.com"/>
-</a>
 
